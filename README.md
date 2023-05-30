@@ -19,7 +19,7 @@ Project structure:
 .\GateSimulator - *turnstile subsystem simulator*   
 .\MySQL - *SQL script for table creation*  
 
-**Note:** this is a prototype; project uses HTTP protocol for cross-platform 
+**Note:** this is a prototype - project uses HTTP protocol for cross-platform 
 communication instead of TCP/UDP.  
 **Note:** this release contains no pre-trained LBPH model nor 
 face images
