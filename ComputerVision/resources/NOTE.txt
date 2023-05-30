@@ -1,0 +1,5 @@
+Sub-folders in '\resources\images\' must be named after users, files in user folder must be named with positive integer,
+i.e. '1.png', '3.png', '4.png' etc; supported image formats: png, jpg
+
+'\resources\images_alt\' must contain no sub-folders, images must be named after used, i.e. "Steve.png", "Bea.jpg";
+supported image formats: png, jpg
