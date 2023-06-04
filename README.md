@@ -8,7 +8,7 @@ and security.
 
 Methods used: 
 - Haar Cascade + LBPH ('alg1', 'OpenCV'); 
-- unknown, possibly CNN ('alg2', 'face_recognition')
+- CNN ('alg2', 'face_recognition')
 
 System structure (simplified):  
 ![](system_graph.png)
