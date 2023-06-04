@@ -10,9 +10,9 @@ from utilities.ExternalHttpClientHandle import CVHttpClient as cvhc
 
 """
 LBPH algorithm is faster than face_recognition ("alt" algorithm/based on "dlib"), 
-but require a lot more samples for good detection (~20 pictures for each user)
-It is highly recommended that samples evenly distributed, i.e. "20 samples of user1, 20 samples of user2",
-not "20 samples of user1, 6 samples of user2".
+but require a lot more samples for good detection (20-40 pictures for each user)
+It is highly recommended that samples evenly distributed, i.e. "40 samples of user1, 40 samples of user2",
+and not "40 samples of user1, 6 samples of user2".
 """
 
 class ComputerVisionController:
